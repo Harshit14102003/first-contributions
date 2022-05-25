@@ -248,6 +248,7 @@ Nicholaus Michael
 - [Jota33](https://github.com/jota33)
 - [OrnellaTchinda](https://github.com/OrnellaTchinda)
 - [Brendon Wright](https://github.com/BrendonW250)
+- [Harshit Agarwal]
 - [Olubukunmi Olufemi](https://github.com/PhemiT)
 - [Computatrum](https://github.com/Computatrums)
 - [OnkelPony](https://github.com/OnkelPony)
